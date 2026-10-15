@@ -1,6 +1,6 @@
 # Dino Bob site!
 
-its a website thats cool
+its a website thats cool it has an image and text that the dino is saying
 
 ## Note from Club
 
