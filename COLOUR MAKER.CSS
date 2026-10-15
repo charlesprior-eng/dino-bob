@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+    height: auto;
+}
+
+body {
+    background-color: #1ecad6;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+    text-align: left;
+}
